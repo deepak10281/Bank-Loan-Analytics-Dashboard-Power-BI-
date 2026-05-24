@@ -1,0 +1,1 @@
+create database bank_loan_db;
