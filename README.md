@@ -1,4 +1,5 @@
 # Bank-Loan-Analytics-Dashboard-Power-BI-
+https://app.powerbi.com/links/79FSmRYO24?ctid=fdcf6fad-c3f0-4c66-8ca1-1e3aaac65150&pbi_source=linkShare
 
 An interactive and professional **Bank Loan Analytics Dashboard** built using **Power BI** to analyze loan portfolio performance, customer repayment behavior, lending operations, and financial risk metrics.
 
