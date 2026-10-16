@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://app.fabric.microsoft.com/links/WM-Ofi9lY5?ctid=fdcf6fad-c3f0-4c66-8ca1-1e3aaac65150&pbi_source=linkShare">
-    <img src="assets/Summary.png" alt="Bank Loan Report - Summary Dashboard" width="100%">
+    <img <img width="1536" height="863" alt="Summary" src="https://github.com/user-attachments/assets/1472911b-214b-45c5-80e6-4a1d7197da8c" />
+>
   </a>
 </p>
 
@@ -92,9 +93,8 @@ The project documentation describes the workflow around SQL Server database crea
 
 # 📊 Dashboard 1 — Summary
 
-<p align="center">
-  <img src="assets/Summary.png" alt="Summary Dashboard" width="100%">
-</p>
+<img width="1536" height="863" alt="Summary" src="https://github.com/user-attachments/assets/92c752dd-a900-4161-819a-3e89c99dc791" />
+
 
 ### Key Performance Indicators
 
@@ -146,9 +146,8 @@ The Loan Status grid provides a consolidated view of:
 
 # 📈 Dashboard 2 — Overview
 
-<p align="center">
-  <img src="assets/Overview.png" alt="Overview Dashboard" width="100%">
-</p>
+<img width="1532" height="860" alt="Overview" src="https://github.com/user-attachments/assets/0561ed52-76a1-48d9-8a60-ff3cdd227454" />
+
 
 The Overview dashboard provides visual analysis across multiple dimensions.
 
@@ -190,9 +189,8 @@ Analyzes lending activity across:
 
 # 🔎 Dashboard 3 — Details
 
-<p align="center">
-  <img src="assets/Details.png" alt="Details Dashboard" width="100%">
-</p>
+<img width="1536" height="864" alt="Details" src="https://github.com/user-attachments/assets/f52347f6-c815-40d7-805f-fd6323aa9d3d" />
+
 
 The Details dashboard provides a consolidated, user-friendly view of individual loan records and important loan attributes.
 
