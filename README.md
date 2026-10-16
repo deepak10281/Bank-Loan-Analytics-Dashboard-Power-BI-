@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> 📌 **GitHub image paths:** Dashboard screenshots use repository-relative paths such as `assets/Summary.png`, so they render correctly after pushing the project to GitHub.
+
 
 
 ## 📌 Project Overview
