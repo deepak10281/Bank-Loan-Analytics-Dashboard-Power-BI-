@@ -4,9 +4,7 @@
 
 <p align="center">
   <a href="https://app.fabric.microsoft.com/links/WM-Ofi9lY5?ctid=fdcf6fad-c3f0-4c66-8ca1-1e3aaac65150&pbi_source=linkShare">
-    <img src="assets/Summary.png" alt="Bank Loan Report - Summary Dashboard" width="100%">
-  </a>
-</p>
+    
 
 <p align="center">
   <a href="https://app.fabric.microsoft.com/links/WM-Ofi9lY5?ctid=fdcf6fad-c3f0-4c66-8ca1-1e3aaac65150&pbi_source=linkShare">
